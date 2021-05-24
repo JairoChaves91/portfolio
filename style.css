@@ -43,6 +43,10 @@ body {
   flex-direction: column;
 }
 
+.card-text {
+  font-family: "Roboto", sans-serif;
+}
+
 footer {
   background: black;
   padding: 20px 0;
